@@ -1,7 +1,7 @@
-{
+{	"name": "fcc-learn-npm-package-json",
 	"author": "Tom Porvaznik",
 	"description": "This project will do something.",
-	"name": "fcc-learn-npm-package-json",
+	"keyword": ["clear", "concise", "descriptive", "node.js"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
