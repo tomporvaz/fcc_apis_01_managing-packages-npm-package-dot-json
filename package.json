@@ -1,10 +1,12 @@
-{	"name": "fcc-learn-npm-package-json",
+{	
+	"name": "fcc-learn-npm-package-json",
 	"version": "1.2",
 	"author": "Tom Porvaznik",
 	"description": "This project will do something.",
 	"keywords": ["clear", "concise", "descriptive", "node.js", "freecodecamp"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
