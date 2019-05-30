@@ -5,8 +5,7 @@
 	"description": "This project will do something.",
 	"keywords": ["clear", "concise", "descriptive", "node.js", "freecodecamp"],
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "^2.10.2"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
